@@ -8,22 +8,6 @@ I build AI-powered products using LLMs, Agentic AI, RAG, and modern web technolo
 
 ---
 
-## 🚀 Featured Projects
-
-🧠 **AI Ingredient Analyzer**  
-Analyze food ingredients using AI + OCR + LLMs.
-
-🎤 **AI Mock Interview Platform**  
-Practice interviews with AI-generated questions and feedback.
-
-✍️ **Content Repurposing Engine**  
-Convert videos, PDFs, blogs, and URLs into social content.
-
-📈 **TrendChain AI**  
-Discover viral trends using AI, YouTube, Hacker News, and market data.
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
