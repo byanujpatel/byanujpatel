@@ -6,6 +6,8 @@ I build AI-powered products using LLMs, Agentic AI, RAG, and modern web technolo
 
 🌐 **Portfolio:** https://www.byanujpatel.online
 
+[![byanujpatel's AI token usage](https://whoburnedmore.com/api/embeds/byanujpatel?style=signature&theme=dark&accent=ember&period=today)](https://whoburnedmore.com/u/byanujpatel?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
+
 ---
 
 ## 💻 Tech Stack
